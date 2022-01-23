@@ -1,3 +1,5 @@
-# ProjectIdea
 
-# Typing speed website (react)
+
+# 1) Typing speed website (react)
+# 2) Weather App (react consume api)
+# 3) 
